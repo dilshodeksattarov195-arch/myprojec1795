@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smspender",
+        "uuid": 18032570,
+        "checksum": "eoz7es"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
